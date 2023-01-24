@@ -10,7 +10,7 @@ ms.service: static-web-apps
 zone_pivot_groups: devops
 ---
 
-# Step-by-step: Publish and Angular App with Azure Static Web Apps using DevOps.
+# Step-by-step: Publish and Angular App with Azure Static Web Apps using DevOps
 
 Azure Static Web Apps publishes a website to a production environment by building apps from an Azure DevOps or GitHub repository. In this step-by-step guide, you will deploy a web application to Azure Static Web apps using DevOps.
 
